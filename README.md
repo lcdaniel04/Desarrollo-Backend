@@ -6,7 +6,7 @@ FRONTED
   DISEÑO
   
     UI Desing -> Adobe XD, Skech, Figma
-    UX Desing
+    UX Desing 
   CÓDIGO
   
     - HTML
