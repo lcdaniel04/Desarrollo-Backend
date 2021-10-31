@@ -7,4 +7,4 @@ Backend
   - Java + Spring
   - Go
   - Ruby on Rails
-  - Phyton
+  - Phyton -> Fast API, Flask, DJango
