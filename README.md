@@ -26,4 +26,5 @@ Conexión entre el Fronted y Backend: API (Application Programming Interface) y 
 
 API: Estandares SOAP (Simple Object Access Protocol), usa XML  —> Extensible Markup Language y REST (Representational State Transfer), usa JSON  —> Javascript Object Notation.
 
- —> ,
+
+
