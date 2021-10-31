@@ -22,12 +22,8 @@ BACKEND
   - Ruby on Rails
   - Phyton -> Fast API, Flask, DJango
 
-Conexión entre el Fronted y Backend: API y JSON.
+Conexión entre el Fronted y Backend: API (Application Programming Interface)
 
-Términos:
+API: Estandares SOAP (Simple Object Access Protocol), usa XML  —> Extensible Markup Language y REST (Representational State Transfer), usa JSON  —> Javascript Object Notation.
 
-API  —> Application Programming Interface,
-SOAP —> Simple Object Access Protocol,
-REST —> Representational State Transfer,
-XML  —> Extensible Markup Language,
-JSON —> JavaScript Object Notation,
+ —> ,
