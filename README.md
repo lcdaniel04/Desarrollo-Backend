@@ -1,19 +1,16 @@
 # Desarrollo-Backend
 Introducción al Desarrollo Backend
 ----
-DISEÑO
+FRONTED
+  DISEÑO
+    UI Desing -> Adobe XD, Skech, Figma
+    UX Desing
+  CÓDIGO
+    - HTML
+    - CSS -> Fundation, Bootstrap, Tailwind
+    - JavaScritp -> Read.JS, Angular, Svelte, Vue.
 
-UI Desing -> Adobe XD, Skech, Figma
-UX Desing
-
-CODIGO
-
-Frontend
-  - HTML
-  - CSS -> Fundation, Bootstrap, Tailwind
-  - JavaScritp -> Read.JS, Angular, Svelte, Vue.
-
-Backend
+BACKEND
   - Javascript -> Node.JS:  Next
   - PHP + Laravel
   - Java + Spring
